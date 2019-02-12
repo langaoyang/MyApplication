@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TabLayoutLan">
+
+        <!-- tab -->
+        <attr name="tab_padding" format="dimension" />
+        <attr name="tab_space_equal" format="boolean" />
+        <attr name="tab_width" format="dimension" />
+
+        <attr name="textsize"/>
+        <attr name="textSelectColor"/>
+        <attr name="textUnselectColor"/>
+        <attr name="textBold"/>
+        <attr name="textAllCaps"/>
+
+
+    </declare-styleable>
+
+    <declare-styleable name="my_tab_layout">
+        <attr name="lan_selected_textSize" />
+        <attr name="lan_unSelected_textSize" />
+        <attr name="lan_Selected_textColor" />
+        <attr name="lan_unSelected_textColor" />
+        <attr name="lan_tab_width" />
+    </declare-styleable>
+
+</resources>
